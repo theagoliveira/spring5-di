@@ -5,6 +5,10 @@ spring:
       - EN
       - dev
 
+logging:
+  level:
+    '[guru.springframework]': debug
+
 guru:
   username: superuserYAML
   password: dbPasswordYAML
