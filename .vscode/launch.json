@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-SfgDiApplication<sfg-di>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "guru.springframework.sfgdi.SfgDiApplication",
+      "projectName": "sfg-di",
+      // "args": "--guru.password=pwFromCmdLine --guru.username=usernameFromCmdLine",
+      // "env": {
+      //   "GURU_USERNAME": "usernameFromVSCodeEnvVar"
+      // },
+    }
+  ]
+}

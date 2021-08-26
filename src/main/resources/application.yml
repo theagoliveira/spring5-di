@@ -1,0 +1,21 @@
+spring:
+  profiles:
+    active:
+      - dog
+      - EN
+      - dev
+
+guru:
+  username: superuserYAML
+  password: dbPasswordYAML
+  jdbcurl: someURLforDBYAML
+
+---
+
+spring:
+  profiles: prod
+
+guru:
+  username: ProdUsername
+  password: ProdPassword
+  jdbcurl: ProdURL
