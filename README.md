@@ -1,4 +1,4 @@
-# Spring Framework Dependency Injection Example
+# Spring Framework — Dependency Injection Example
 
 Project from the online course [**Spring Framework 5: Beginner to Guru**](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/) by John Thompson — Sections 3, 5 and 6.
 
